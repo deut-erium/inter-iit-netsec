@@ -1,4 +1,4 @@
-# Inter-IIT 9.0 
+# Inter-IIT Tech 9.0 
 Solutions of IITB for [SAPTANG's netsec challenge](https://interiit-tech.org/events/network_security_hackathon) for Inter IIT tech meet 9.0
 
 # Problem Statements
